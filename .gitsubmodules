@@ -1,0 +1,3 @@
+[submodule "dragon_quest-forge"]
+	path = dragon_quest-forge
+	url = https://github.com/fgsoftware1/dragon_quest-forge
