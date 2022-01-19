@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dragon quest-forge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dragon_quest-forge" vcs="Git" />
   </component>
 </project>
