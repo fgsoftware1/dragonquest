@@ -10,7 +10,7 @@ please clone this repo this way:
     git submodule init
     git submodule update
 
-alternative
+alternatively
 
 .. code-block::
 
