@@ -3,6 +3,7 @@ Dragon quest mod
 ================
 
 please clone this repo this way:
+
 .. code-block::
 
     git clone https://github.com/fgsoftware1/dragonquest.git
@@ -10,6 +11,7 @@ please clone this repo this way:
     git submodule update
 
 alternative
+
 .. code-block::
 
     git clone --recurse-submodules https://github.com/fgsoftware1/dragonquest.git
